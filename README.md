@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Asma Raies</h1>
 <h3 align="center">A passionate backend web developer</h3>
 
