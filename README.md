@@ -5,7 +5,7 @@
 - 🔭 I’m currently a student in **ALX_africa**
 
 - 📫 How to reach me **rais.asma99@gmail.com**
-[![committers.top badge](https://user-badge.committers.top/tunisia/USERNAME.svg)](https://user-badge.committers.top/tunisia/asmarais)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asma raies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asma raies" height="30" width="40" /></a>
