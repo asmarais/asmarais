@@ -3,21 +3,21 @@
 <h3 align="center">Software Engineer | Backend & Cloud | AI & Agentic Systems</h3>
 
 <p>
-Final-year Software Engineering student at <b>FST Tunis</b>, building backend systems, cloud-native applications, and AI-powered software.<br/>
-Currently a part-time Software Engineer at <b>WebDirect</b> (Amsterdam, remote), working on production web applications, deployments, integrations, and performance.<br/>
-Outside of work, I build AI/LLM projects and agentic systems through personal projects and hackathons, while staying active in <b>JCI</b> through technology, leadership, and community initiatives.<br/>
-Looking for a 2027 graduation internship in Software/Backend Engineering, DevOps/Cloud, or Applied AI.
+Final-year Software Engineering student building **backend systems, cloud-native applications, and AI-powered software**.<br/>
+Part-time Software Engineer at <b>WebDirect</b> (Amsterdam, remote), working on production applications, deployments, integrations, and performance.<br/>
+I also build **AI/LLM and agentic systems** through projects and hackathons, while staying active in <b>JCI Nabeul</b>.<br/>
+Seeking a **2027 graduation internship** in Software/Backend Engineering, AI, or DevOps/Cloud.
 </p>
 
 ---
 
 ### What I Work On
 
-**Professional Engineering**
+**Software Engineer**
 At WebDirect, I work on the full lifecycle of client websites: Next.js development, Vercel deployments, DNS configuration, serverless functions, Sanity Studio, analytics, performance optimization, and third-party integrations such as GoHighLevel, n8n, and Vapi.
 
 **Backend & Cloud**
-I build and work with REST APIs, microservices, Docker, AWS, CI/CD, and cloud-native architectures, with experience across .NET, Spring Boot, FastAPI, and modern web stacks.
+I build and work with REST APIs, microservices, Docker, AWS, CI/CD, and cloud-native architectures, with experience across .NET, Spring Boot, FastAPI, and Next.js
 
 **AI & Agentic Systems**
 I build AI applications around RAG, LLMs, recommendation systems, computer vision, and agentic workflows, with a particular interest in integrating AI into reliable software systems.
@@ -26,7 +26,7 @@ I build AI applications around RAG, LLMs, recommendation systems, computer visio
 I've participated in several AI hackathons and challenges, with 2nd and 3rd place finishes, building complete solutions under tight time constraints.
 
 **Leadership & Community**
-Active in JCI, where I have taken on leadership and project responsibilities while contributing to community and youth initiatives. I enjoy combining technology, teamwork, and leadership beyond the classroom.
+Active in JCI, where I have taken on leadership and project responsibilities while contributing to community and youth initiatives. I enjoy combining technology, teamwork, and leadership.
 
 **Currently Building**
 Second Brain OS, a multimodal personal knowledge system combining RAG, a knowledge graph, and an AI agent.
