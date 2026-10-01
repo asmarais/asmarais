@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer | Backend & Cloud | AI & Agentic Systems</h3>
 
 <p>
-Final-year Software Engineering student building **backend systems, cloud-native applications, and AI-powered software**.<br/>
+Final-year Software Engineering student building backend systems, cloud-native applications, and AI-powered software.<br/>
 Part-time Software Engineer at <b>WebDirect</b> (Amsterdam, remote), working on production applications, deployments, integrations, and performance.<br/>
-I also build **AI/LLM and agentic systems** through projects and hackathons, while staying active in <b>JCI Nabeul</b>.<br/>
-Seeking a **2027 graduation internship** in Software/Backend Engineering, AI, or DevOps/Cloud.
+I also build AI/LLM and agentic systems through projects and hackathons, while staying active in <b>JCI Nabeul</b>.<br/>
+Seeking a 2027 graduation internship in Software/Backend Engineering, AI, or DevOps/Cloud.
 </p>
 
 ---
